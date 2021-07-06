@@ -6,7 +6,7 @@ echo "$(date)" >> README.md
 
 echo "This program contains the following amount of lines of code" >> README.md
 
-wc -l guess_scrpt.sh >> README.md
+wc -l Guess_scrpt.sh >> README.md
 
 
 
